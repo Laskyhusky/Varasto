@@ -1,0 +1,13 @@
+{
+    "1": {
+        "name": "admin",
+        "password": "$2b$12$wiHQW9fgvuR1moUeLeP2WegViLovXzk0OvCorbJZ7XJ4/uFbsaLrG",
+        "role": "admin",
+        "create_date": ""
+    },
+    "2": {
+        "name": "flo",
+        "password": "$2b$12$p6T/e2pB1diTOzcWyxXSs.Yt9FrYcEHnmTB8iUDYQZs3GCkYX7pbq",
+        "role": "admin"
+    }
+}

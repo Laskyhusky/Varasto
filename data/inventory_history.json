@@ -1,0 +1,50 @@
+{
+    "0": {
+        "product_id": "1",
+        "product_name": "Table",
+        "quantity": 32,
+        "date": "2026-01-28",
+        "week": 5,
+        "movement": "add"
+    },
+    "1": {
+        "product_id": "2",
+        "product_name": "Chair",
+        "quantity": 92,
+        "date": "2026-01-28",
+        "week": 5,
+        "movement": "add"
+    },
+    "2": {
+        "product_id": "2",
+        "product_name": "Chair",
+        "quantity": 12,
+        "date": "2026-01-28",
+        "week": 5,
+        "movement": "remove"
+    },
+    "3": {
+        "product_id": "3",
+        "product_name": "Dildo",
+        "quantity": 10,
+        "date": "2026-01-29",
+        "week": 5,
+        "movement": "add"
+    },
+    "4": {
+        "product_id": "2",
+        "product_name": "Chair",
+        "quantity": 69,
+        "date": "2026-02-06",
+        "week": 6,
+        "movement": "add"
+    },
+    "5": {
+        "product_id": "1",
+        "product_name": "Table",
+        "quantity": 99,
+        "date": "2026-02-06",
+        "week": 6,
+        "movement": "add"
+    }
+}
